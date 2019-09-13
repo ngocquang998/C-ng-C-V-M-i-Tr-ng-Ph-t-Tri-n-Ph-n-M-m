@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-le hhai minh
-=======
-hello
-abc
->>>>>>> 0f1aec06a820715926c8b296bd0d5286222a003e
+Lee Hai Minh
+
+
